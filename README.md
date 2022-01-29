@@ -21,11 +21,11 @@ Display the earthquake data using circle markers which are color and sized by ma
 - [Node.js](https://nodejs.org/en/)
 
 ### Extensions (Optional)
-- Live Server
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Results
 
 **Light Map View with Tectonic and Earthquake Layers**
-![LightMap](static/resources/Light Map.png)
+![LightMap](https://github.com/srfassihi/Mapping_Earthquakes/blob/4b25b29e36e291a19697a60cafbb34634fe3ecb9/static/resources/Light%20Map.png)
 
 **[Link to Page](https://srfassihi.github.io/Mapping_Earthquakes/)**
