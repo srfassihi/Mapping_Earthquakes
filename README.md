@@ -5,9 +5,13 @@
 Create a map of earthquake data using different GeoJSON layers to show:
 1. Earth Tectonic Plate boundaries
 2. All earthquakes from past 7 days
-3. Major earthquakes 
+3. Major earthquakes from past 7 days
 
-Display the earthquake data using circle markers which are color and sized by magnitude. Show multiple MapBox Basemap styles in the dropdown. Host the webpage using Git Pages.
+### Other Instructions
+- Display the earthquake data using circle markers which are color and sized by magnitude.
+- Show multiple MapBox Basemap styles in the dropdown.
+- Display a Legend showing the color and magnitude information. 
+- Host the webpage using Git Pages.
 
 ## Resources
 
